@@ -21,17 +21,21 @@ The cleaned dataset is now ready for analysis, providing a solid foundation for 
 
 
 **Feature Engineering**
+
 **Handling Missing Values**
+
 Imputation Techniques
 Utilized various imputation methods to handle missing values effectively, ensuring minimal data loss and maintaining dataset integrity. Techniques included:
   Mean/Median Imputation - Replaced missing values with the mean or median of the respective feature to preserve data distribution14.
   Multiple Imputation - Employed multiple imputation methods to account for uncertainty and variability in the missing data, enhancing the robustness of the dataset.
   
 **Encoding Categorical Variables**
+
   One-Hot Encoding - Implemented one-hot encoding to convert categorical variables into a binary format, facilitating their use in machine learning algorithms13. This technique helps prevent the model from misinterpreting categorical 
   data as ordinal.
   
 **Reducing Cardinality**
+
   Feature Reduction: Applied techniques to reduce cardinality in categorical variables, optimizing model performance by minimizing overfitting and improving interpretability. This involved grouping infrequent categories into an "Other" 
   category or selecting the most significant categories based on domain knowledge.
   

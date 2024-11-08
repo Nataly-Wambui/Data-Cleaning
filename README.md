@@ -40,6 +40,7 @@ Utilized various imputation methods to handle missing values effectively, ensuri
   category or selecting the most significant categories based on domain knowledge.
   
 **Creating New Features**
+
   Feature Creation - Developed new features based on existing data to enhance predictive power. Examples include:
   Interaction Terms - Created interaction features that capture relationships between variables, improving model accuracy.
   Derived Metrics - Generated new metrics (e.g., Body Mass Index from weight and height) that provide additional insights into the dataset.

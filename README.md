@@ -1,6 +1,7 @@
 **Statewide Distributed Solar Project**
 This project focuses on a statewide distributed solar initiative, analyzing data related to solar energy installations across the region. The dataset provides insights into various aspects of the project, including installation locations, energy output, and other relevant metrics.
-**Data Cleaning Process**
+
+##Data Cleaning Process
 To ensure the quality and usability of the dataset, several data cleaning steps were undertaken:
 **Filling Null Values**
 Where applicable, null values were filled using appropriate methods to maintain data integrity and prevent loss of information. This included using mean or median values for numerical fields and mode for categorical fields.

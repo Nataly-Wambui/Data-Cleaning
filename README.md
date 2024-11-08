@@ -20,7 +20,7 @@ After cleaning the dataset, various visualizations were created to illustrate ke
 The cleaned dataset is now ready for analysis, providing a solid foundation for further exploration of the statewide distributed solar project. The visualizations created will aid in presenting findings and supporting decision-making processes related to solar energy initiatives.
 
 
-**Feature Engineering**
+##Feature Engineering
 
 **Handling Missing Values**
 
